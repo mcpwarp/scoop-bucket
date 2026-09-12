@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mcpwarp/cli/releases/download/v0.1.0/mcpwarp_0.1.0_windows_amd64.zip",
+            "bin": [
+                "mcpwarp.exe"
+            ],
+            "hash": "6bbff6717a656db83d9cf46969cf004c434539f211f9cab0c842306496dd8f31"
+        },
+        "arm64": {
+            "url": "https://github.com/mcpwarp/cli/releases/download/v0.1.0/mcpwarp_0.1.0_windows_arm64.zip",
+            "bin": [
+                "mcpwarp.exe"
+            ],
+            "hash": "b925a0981cdd21fda28c9b94f249b8e1b2f065bf461e305bf8276fbdaf31d781"
+        }
+    },
+    "homepage": "https://github.com/mcpwarp/cli",
+    "license": "MIT",
+    "description": "CLI for tunneling and bridging MCP servers."
+}
