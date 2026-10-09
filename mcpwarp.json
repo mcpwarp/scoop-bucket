@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mcpwarp/cli/releases/download/v0.1.0/mcpwarp_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/mcpwarp/cli/releases/download/v0.2.0/mcpwarp_0.2.0_windows_amd64.zip",
             "bin": [
                 "mcpwarp.exe"
             ],
-            "hash": "6bbff6717a656db83d9cf46969cf004c434539f211f9cab0c842306496dd8f31"
+            "hash": "f56053f15a1f37ff20537520a34980246e6e90cb248ce2968152cb22a89e741f"
         },
         "arm64": {
-            "url": "https://github.com/mcpwarp/cli/releases/download/v0.1.0/mcpwarp_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/mcpwarp/cli/releases/download/v0.2.0/mcpwarp_0.2.0_windows_arm64.zip",
             "bin": [
                 "mcpwarp.exe"
             ],
-            "hash": "b925a0981cdd21fda28c9b94f249b8e1b2f065bf461e305bf8276fbdaf31d781"
+            "hash": "0e1987cbd3a2597707160ced163cc556eb4d375521e7f4327264713114a5020c"
         }
     },
     "homepage": "https://github.com/mcpwarp/cli",
